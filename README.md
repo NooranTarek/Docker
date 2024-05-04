@@ -10,6 +10,6 @@
 1. Create a script that asks for user name then send a greeting to him.
 <html></br></html>
 
-![1](https://github.com/NooranTarek/Bash/blob/main/lab2/bash_q1.png?raw=true)
+![image](https://github.com/NooranTarek/Docker/assets/102181986/a3c7cdb5-38a1-493f-ab98-7fb31cd538c5)
 
 <html></br></html>
