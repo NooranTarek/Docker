@@ -47,7 +47,6 @@
 	  Map apache server running on the container to port 82 on 	your local machine
 	  Check that it is working using your browser
 
-
        <html></br></html>
 
 ![image](https://github.com/NooranTarek/Docker/assets/102181986/99a33494-4ec7-4ada-903f-efd00f63ee3e)
@@ -81,28 +80,27 @@
 7. Create mysql container, map tmp directory (on your local machine) to /var/lib (on the container).
    
        <html></br></html>
-       
-       ![image](https://github.com/NooranTarek/Docker/assets/102181986/a9c9949f-afd0-41dc-8caf-5ab226d426bb)
+   
+   ![image](https://github.com/NooranTarek/Docker/assets/102181986/a9c9949f-afd0-41dc-8caf-5ab226d426bb)
 
        <html></br></html>
    
-8. Create a volume lab1, start two containers from nginx image and mount this volume to /app, create a file from the first container on the path mapped to this volume and check that it exists on the second container.
+9. Create a volume lab1, start two containers from nginx image and mount this volume to /app, create a file from the first container on the path mapped to this volume and check that it exists on the second container.
     
-          <html></br></html>
+   <html></br></html>
     
-          ![image](https://github.com/NooranTarek/Docker/assets/102181986/2ec2c369-32b8-4d37-856a-78c8a16c09ce)
+   ![image](https://github.com/NooranTarek/Docker/assets/102181986/2ec2c369-32b8-4d37-856a-78c8a16c09ce)
 
-       <html></br></html>
+   <html></br></html>
        
    ![image](https://github.com/NooranTarek/Docker/assets/102181986/8179988c-eccc-4db7-8f30-afebeaad3560)
 
-       <html></br></html>
+   <html></br></html>
        
    ![image](https://github.com/NooranTarek/Docker/assets/102181986/1d26d4ba-6670-4c5e-a921-52f51ddd9c41)
 
-       <html></br></html>
+   <html></br></html>
        
    ![image](https://github.com/NooranTarek/Docker/assets/102181986/4fa68dda-6f16-41a0-a03c-c4715d5e39a1)
 
-       <html></br></html>
 
