@@ -21,7 +21,6 @@
 
 ![image](https://github.com/NooranTarek/Docker/assets/102181986/3b8e5dcc-37a0-43cd-936c-e30c736b8810)
 
-<html></br></html>
 
 ![image](https://github.com/NooranTarek/Docker/assets/102181986/73cf7bb2-7c5d-47fe-8337-0fefceb113c2)
 
@@ -29,19 +28,15 @@
     • List all images 
     • Remove laravel image
     
-    <html></br></html>
     
 ![image](https://github.com/NooranTarek/Docker/assets/102181986/21fa02ab-29b8-4049-a950-4e91befbce46)
 
-    <html></br></html>
     
 ![image](https://github.com/NooranTarek/Docker/assets/102181986/de141f46-9740-47d8-a04b-c067ac2932e4)
 
-    <html></br></html>
     
 ![image](https://github.com/NooranTarek/Docker/assets/102181986/8009a085-de3f-4984-ab90-c8d198743331)
 
-    <html></br></html>
     
 4. • Create a container from httpd image 
 	  Map apache server running on the container to port 82 on 	your local machine
